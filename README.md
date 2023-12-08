@@ -67,7 +67,7 @@ Evidently is also available on Anaconda distribution platform. To install Eviden
 ```sh
 conda install -c conda-forge evidently
 ```
-If you want visualize the Reports or Test Suites inside Jupyter notebook, you need `jupyter nbextension`. After installing `evidently`, run the two following commands in the terminal from the evidently directory. This is not required if you want to use Evidently Monitoring UI.
+If you want to visualize the Reports or Test Suites inside Jupyter notebook, you need `jupyter nbextension`. After installing `evidently`, run the two following commands in the terminal from the evidently directory. This is not required if you want to use Evidently Monitoring UI.
 
 To install `jupyter nbextension`, run:
 ```sh
@@ -206,7 +206,7 @@ Evidently Metrics| [Jupyter notebook](https://github.com/evidentlyai/evidently/b
 Evidently Test Presets| [Jupyter notebook](https://github.com/evidentlyai/evidently/blob/main/examples/sample_notebooks/evidently_test_presets.ipynb) <br>[Colab](https://colab.research.google.com/drive/1CBAFY1qmHHV_72SC7YBeaD4c6LLpPQan) | - |NoTargetPerformance, Data Stability, Data Quality, Data Drift Regression, Multi-class Classification, Binary Classification, Binary Classification top-K test suites
 Evidently Tests| [Jupyter notebook](https://github.com/evidentlyai/evidently/blob/main/examples/sample_notebooks/evidently_tests.ipynb) <br>[Colab](https://colab.research.google.com/drive/1nQhfXft4VZ3G7agvXgH_LqVHdCh-WaMl)| - |All individual Tests
 
-There are more example in the [Community Examples](https://github.com/evidentlyai/community-examples) repository.
+There are more examples in the [Community Examples](https://github.com/evidentlyai/community-examples) repository.
 
 ## Integrations
 Explore [Integrations](https://github.com/evidentlyai/evidently/tree/main/examples/integrations) to see how to integrate Evidently in the prediction pipelines and with other tools. 

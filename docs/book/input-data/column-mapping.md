@@ -168,7 +168,7 @@ It accepts the following values:
 
 ## Prediction column(s) in classification 
 
-To evaluate the classification performance, you need both true labels and prediction. Depending on the classification type (e.g., binary, multi-class, probabilistic), you have different options of how to pass the predictions.
+To evaluate the classification performance, you need both true labels and prediction. Depending on the classification type (e.g., binary, multi-class, probabilistic), you have different options for how to pass the predictions.
 
 ### Multiclass classification, option 1
 
